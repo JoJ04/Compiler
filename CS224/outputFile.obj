@@ -1,0 +1,16 @@
+main:
+push x 
+push 2
+pop r1
+pop r2
+sub r2,r1
+push r2
+pop r2
+cmp r2,0
+be else
+push 1
+pop y
+else
+push 0
+pop y
+exit

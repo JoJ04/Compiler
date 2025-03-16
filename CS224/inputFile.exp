@@ -1,0 +1,25 @@
+main()
+begin
+if (x-2) then
+[y=1]
+else 
+[y=0];
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
